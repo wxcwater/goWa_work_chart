@@ -1,0 +1,19 @@
+{
+  "name": "webpackstudy",
+  "version": "1.0.0",
+  "description": "study of webPack tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wp"
+  ],
+  "author": "wxcwater",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "webpack": "^1.13.3"
+  }
+}
